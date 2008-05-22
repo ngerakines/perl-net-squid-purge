@@ -1,0 +1,18 @@
+--- #YAML:1.0
+name: Net-Squid-Purge
+version: 0.2
+version_from: lib/Net/Squid/Purge.pm
+installdirs:  site
+license: perl
+requires:
+    Class::Accessor:               0
+    HTTP::Status:                  0
+    IO::Socket::INET:              0
+    IO::Socket::Multicast:         0
+    Net::HTTP:                     0
+    Socket:                        0
+    Test::Exception:               0
+    Test::Group:                   0
+    Test::More:                    0
+generated_by: ExtUtils::MakeMaker version 6.30
+

@@ -1,0 +1,13 @@
+Makefile.PL
+Changes
+MANIFEST
+MANIFEST.skip
+META.yml
+README
+lib/Net/Squid/Purge.pm
+lib/Net/Squid/Purge/HTTP.pm
+lib/Net/Squid/Purge/Multicast.pm
+lib/Net/Squid/Purge/UDP.pm
+t/00-compile.t
+t/11-new.t
+t/12-usage.t
